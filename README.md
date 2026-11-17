@@ -1,9 +1,9 @@
-# Sinal
+# PricePulse
 
-A Sinal é uma iniciativa de inteligência de mercado para lojas de hardware e componentes de computador. A proposta é reunir informações sobre preços e movimentos da concorrência para ajudar lojistas a acompanhar o mercado com mais contexto.
+O PricePulse é uma proposta de inteligência de preços para lojas de hardware e componentes de computador. A ideia é ajudar o lojista a perceber mudanças dos concorrentes com mais rapidez, antes que um preço desatualizado reduza a margem ou leve uma venda para outra loja.
 
-O projeto explora ideias como monitoramento de placas de vídeo e outros componentes, comparação de preços entre lojas e alertas para mudanças que merecem atenção. Esses exemplos representam possibilidades em desenvolvimento, não resultados ou funcionalidades já lançadas.
+A plataforma explora conceitos de acompanhamento de placas de vídeo e outros componentes, comparação de preços e avisos sobre movimentos que merecem atenção. Os exemplos apresentados são ideias em desenvolvimento; não representam funcionalidades já lançadas, dados reais ou resultados de clientes.
 
-A Sinal busca tornar a leitura do mercado mais clara e apoiar decisões do varejo de tecnologia no dia a dia.
+O PricePulse busca dar ao varejo de tecnologia mais contexto para decidir quando revisar seus preços e proteger cada oportunidade de venda.
 
-**Sinal — inteligência de mercado para hardware.**
+**PricePulse - inteligência de preços para hardware.**
