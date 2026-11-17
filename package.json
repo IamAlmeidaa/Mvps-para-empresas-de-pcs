@@ -1,8 +1,8 @@
 {
-  "name": "sinal-hardware-inteligencia",
+  "name": "pricepulse-hardware-intelligence",
   "version": "1.0.0",
   "private": true,
-  "description": "Interface e estrutura inicial para inteligência de mercado de hardware",
+  "description": "Landing page e API inicial do PricePulse para inteligência de preços em hardware.",
   "type": "module",
   "scripts": {
     "dev": "node --watch src/server.js",
