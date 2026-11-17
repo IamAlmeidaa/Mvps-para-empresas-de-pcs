@@ -51,7 +51,7 @@ form?.addEventListener('submit', async (event) => {
     const result = await response.json().catch(() => ({}));
     if (!response.ok) throw new Error(result.error || result.message || 'Não foi possível enviar agora.');
     form.reset();
-    feedback.textContent = 'Interesse recebido. Obrigado! Entraremos em contato quando o canal de atendimento estiver configurado.';
+    feedback.textContent = 'Seu interesse foi registrado. Obrigado!';
     feedback.dataset.state = 'success';
   } catch (error) {
     feedback.textContent = error instanceof TypeError
